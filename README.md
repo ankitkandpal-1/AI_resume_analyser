@@ -1,6 +1,5 @@
 # AI_resume_analyser
-An AI Resume Analyzer, also commonly known as a resume parser or an automated screening tool, is a software application that leverages Artificial Intelligence (AI) to automatically read, interpret, and evaluate candidate resumes against a specific job description. 
-# AI-Powered Resume Analyzer  
+An AI Resume Analyzer, also commonly known as a resume parser or an automated screening tool, is a software application that leverages Artificial Intelligence (AI) to automatically read, interpret, and evaluate candidate resumes against a specific job description.  
 
 **AI-Powered Resume Analyzer**, a cutting-edge application designed to mimic the expertise of an HR professional! This tool leverages the power of **Google Generative AI** to analyze resumes, evaluate job compatibility, and offer actionable insights for career enhancement.  
 
